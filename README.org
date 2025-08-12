@@ -4,6 +4,6 @@ Fuzzy match candidates from an input string.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/vindarel/fuzzy-match.git |
-| commit  | c3d81e1                                         |
+| commit  | 38694eb                                         |
 | systems | fuzzy-match                                     |
 |---------+-------------------------------------------------|
